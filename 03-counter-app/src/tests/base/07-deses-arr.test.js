@@ -1,4 +1,4 @@
-import { retornaArreglo } from "../base/07-deses-arr"
+import { retornaArreglo } from "../../base/07-deses-arr"
 
 describe('Test deses arr', () => {
     test('should ', () => {

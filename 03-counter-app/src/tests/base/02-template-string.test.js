@@ -1,5 +1,5 @@
 import '@testing-library/jest-dom';
-import { getSaludo } from "../base/02-template-string";
+import { getSaludo } from "../../base/02-template-string";
 
 describe('template string test', () => {
     test('test getSaludo function', () => {
