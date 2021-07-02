@@ -11,7 +11,7 @@ const FirstApp = ({ title, subtitle }) => {
     return (
         <>
             <h1>{sayHi}</h1>
-            <pre>{JSON.stringify(object, null, 3)}</pre>
+            {/*<pre>{JSON.stringify(object, null, 3)}</pre>*/}
             <p>{subtitle}</p>
         </>
     );
